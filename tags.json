@@ -1,0 +1,78 @@
+{
+    "deptr": [
+                "thanks",
+                "IRTS",
+                "IRPS",
+                "IRAS",
+                "RPF"
+            ],
+    "dept": {
+                "thanks":0,
+                "IRTS":1,
+                "IRPS":2,
+                "IRAS":3,
+                "RPF":4
+            },
+
+    "dict": {
+                "thankyou":"thanks",
+                "thank":"thanks",
+                "thanks":"thanks",
+
+                "Tag": "Department",
+                "book":"IRAS",
+                "booked":"IRAS",
+                "booking":"IRAS",
+                "canceled":"IRAS",
+                "cancel":"IRAS",
+                "money":"IRAS",
+                "finance":"IRAS",
+                "tickets":"IRAS",
+                "ticket":"IRAS",
+                "reservation":"IRAS",
+                "late":"IRAS",
+                "paytm":"IRAS",
+                "cashless":"IRAS",
+                "cash":"IRAS",
+
+                "port":"IRPS",
+                "charge":"IRPS",
+                "charging":"IRPS",
+                "charged":"IRPS",
+                "repair":"IRPS",
+                "repairing":"IRPS",
+                "medical":"IRPS",
+                "doctor":"IRPS",
+                "berth":"IRPS",
+                "seat":"IRPS",
+                "staff":"IRPS",
+                "behavior":"IRPS",
+                "toilet":"IRPS",
+                "toilets":"IRPS",
+                "rude":"IRPS",
+
+                "late":"IRTS",
+                "delay":"IRTS",
+                "delayed":"IRTS",
+                "timing":"IRTS",
+                "timings":"IRTS",
+
+                "thief":"RPF",
+                "rob":"RPF",
+                "robbed":"RPF",
+                "theft":"RPF",
+                "hostage":"RPF",
+                "terrorist":"RPF",
+                "safety":"RPF",
+                "dinosaur":"RPF",
+                "school":"RPF",
+                "teachers":"RPF",
+                "kill":"RPF",
+                "robber":"RPF",
+                "robbery":"RPF",
+                "stabbed":"RPF",
+                "bomb":"RPF",
+                "bombs":"RPF",
+                "police":"RPF"
+              }
+}

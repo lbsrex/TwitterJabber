@@ -1,0 +1,24 @@
+{
+  "name": "twitterjabber",
+  "version": "1.0.0",
+  "description": "Parse complaints people are jabbering on twitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbsrex/TwitterJabber.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Jabber",
+    "Complaint"
+  ],
+  "author": "lbsrex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbsrex/TwitterJabber/issues"
+  },
+  "homepage": "https://github.com/lbsrex/TwitterJabber#readme"
+}
