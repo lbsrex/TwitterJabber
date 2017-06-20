@@ -1,2 +1,2 @@
 # TwitterJabber
-Parse complaints people are jabbering on twitter.
+Parse the twitter jibber-jabbering and classify it into sub-rants.
